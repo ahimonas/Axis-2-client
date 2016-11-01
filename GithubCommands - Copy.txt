@@ -1,0 +1,9 @@
+git clone www.github.com/proj 
+git init (bc it was forked)
+
+
+git add .
+
+git remote add origin https://github.com/username/myproject.git
+
+git push --set-upstream origin master  || git push
