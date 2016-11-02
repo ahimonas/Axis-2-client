@@ -7,3 +7,5 @@ git add .
 git remote add origin https://github.com/username/myproject.git
 
 git push --set-upstream origin master  || git push
+
+test
