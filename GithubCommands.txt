@@ -1,7 +1,7 @@
 git clone www.github.com/proj 
 git init (bc it was forked)
 
-
+testttt
 git add .
 
 git remote add origin https://github.com/username/myproject.git
